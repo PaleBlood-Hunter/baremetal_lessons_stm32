@@ -1,0 +1,7 @@
+C:/Users/vinicius.ferreira/OneDrive - Datamars SA/Desktop/STM32/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/uart.c:28:5:__io_putchar	16	static
+../Src/uart.c:34:6:uart2_rxtx_interrupt_init	8	static
+../Src/uart.c:83:6:uart2_write	16	static
+../Src/uart.c:92:6:uart2_read	4	static
+../Src/uart.c:103:13:uart_set_baudrate	24	static
+../Src/uart.c:108:17:compute_uart_bd	16	static
