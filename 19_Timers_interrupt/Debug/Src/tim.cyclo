@@ -1,0 +1,3 @@
+C:/Users/vinicius.ferreira/OneDrive - Datamars SA/Desktop/STM32/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/tim.c:9:6:tim2_1hz_init	1
+../Src/tim.c:27:6:tim2_1hz_interrupt_init	1
